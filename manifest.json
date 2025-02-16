@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-merge-md-plugin",
+	"name": "obsidian-merge-md-plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Merge Markdown files from a folder into a single file (PDF or Markdown) recursively",
+	"author": "w17714m",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
